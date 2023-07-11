@@ -4,9 +4,12 @@
 
 ## Commandes
 
-* [Page 1](commandes/page-1.md)
+* [Documentation](commandes/documentation/README.md)
+  * [Musique](commandes/documentation/musique.md)
 
 ## Autres
 
 * [⚖ Politique de Confidentialité](autres/politique-de-confidentialite.md)
 * [⚖ Conditions générales d'utilisation](autres/conditions-generales-dutilisation.md)
+* [🛠 Mises à jour](autres/mises-a-jour.md)
+* [Serveur Support](https://discord.com/invite/546jcRk8AH)
