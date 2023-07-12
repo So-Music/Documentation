@@ -10,6 +10,6 @@ So' Music utilise le système de commande slash de Discord.
 
 ## Catégorie de commandes
 
-{% content-ref url="musique/" %}
-[musique](musique/)
+{% content-ref url="musique.md" %}
+[musique.md](musique.md)
 {% endcontent-ref %}

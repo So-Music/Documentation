@@ -6,7 +6,7 @@
 
 * [Documentation](commandes/documentation/README.md)
   * [Configuration](commandes/documentation/configuration.md)
-  * [Musique](commandes/documentation/musique/README.md)
+  * [Musique](commandes/documentation/musique.md)
     * [Bass-Boost](commandes/documentation/musique/bass-boost.md)
     * [Clear Queue](commandes/documentation/musique/clear-queue.md)
   * [Information](commandes/documentation/information.md)
