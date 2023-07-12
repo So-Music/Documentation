@@ -2,6 +2,10 @@
 
 * [🏠 Accueil et sommaire](README.md)
 
+## Informations
+
+* [🛠 Mises à jour](informations/mises-a-jour.md)
+
 ## Commandes
 
 * [Documentation](commandes/documentation/README.md)
@@ -24,9 +28,12 @@
     * [Volume](commandes/documentation/musique/volume.md)
   * [Information](commandes/documentation/information.md)
 
+## Juridique
+
+* [⚖ Politique de Confidentialité](juridique/politique-de-confidentialite.md)
+* [⚖ Conditions générales d'utilisation](juridique/conditions-generales-dutilisation.md)
+
 ## Autres
 
-* [⚖ Politique de Confidentialité](autres/politique-de-confidentialite.md)
-* [⚖ Conditions générales d'utilisation](autres/conditions-generales-dutilisation.md)
-* [🛠 Mises à jour](autres/mises-a-jour.md)
 * [Serveur Support](https://discord.com/invite/546jcRk8AH)
+* [Github](https://github.com/So-Music)
