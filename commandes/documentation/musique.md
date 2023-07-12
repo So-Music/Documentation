@@ -18,54 +18,54 @@ So' Music utilise le système de commande slash de Discord.
 [clear-queue.md](musique/clear-queue.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-1.md" %}
-[clear-queue-1.md](musique/clear-queue-1.md)
+{% content-ref url="musique/disconnect.md" %}
+[disconnect.md](musique/disconnect.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-2.md" %}
-[clear-queue-2.md](musique/clear-queue-2.md)
+{% content-ref url="musique/nowplaying.md" %}
+[nowplaying.md](musique/nowplaying.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-3.md" %}
-[clear-queue-3.md](musique/clear-queue-3.md)
+{% content-ref url="musique/pause.md" %}
+[pause.md](musique/pause.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-4.md" %}
-[clear-queue-4.md](musique/clear-queue-4.md)
+{% content-ref url="musique/play.md" %}
+[play.md](musique/play.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-5.md" %}
-[clear-queue-5.md](musique/clear-queue-5.md)
+{% content-ref url="musique/queue.md" %}
+[queue.md](musique/queue.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-6.md" %}
-[clear-queue-6.md](musique/clear-queue-6.md)
+{% content-ref url="musique/radio.md" %}
+[radio.md](musique/radio.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-7.md" %}
-[clear-queue-7.md](musique/clear-queue-7.md)
+{% content-ref url="musique/repeat.md" %}
+[repeat.md](musique/repeat.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-8.md" %}
-[clear-queue-8.md](musique/clear-queue-8.md)
+{% content-ref url="musique/resume.md" %}
+[resume.md](musique/resume.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-9.md" %}
-[clear-queue-9.md](musique/clear-queue-9.md)
+{% content-ref url="musique/seek.md" %}
+[seek.md](musique/seek.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-10.md" %}
-[clear-queue-10.md](musique/clear-queue-10.md)
+{% content-ref url="musique/shuffle.md" %}
+[shuffle.md](musique/shuffle.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-11.md" %}
-[clear-queue-11.md](musique/clear-queue-11.md)
+{% content-ref url="musique/skip.md" %}
+[skip.md](musique/skip.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-12.md" %}
-[clear-queue-12.md](musique/clear-queue-12.md)
+{% content-ref url="musique/stop.md" %}
+[stop.md](musique/stop.md)
 {% endcontent-ref %}
 
-{% content-ref url="musique/clear-queue-13.md" %}
-[clear-queue-13.md](musique/clear-queue-13.md)
+{% content-ref url="musique/volume.md" %}
+[volume.md](musique/volume.md)
 {% endcontent-ref %}
