@@ -9,7 +9,9 @@
 ## Commandes
 
 * [Documentation](commandes/documentation/README.md)
-  * [Configuration](commandes/documentation/configuration.md)
+  * [Configuration](commandes/documentation/configuration/README.md)
+    * [Language](commandes/documentation/configuration/language.md)
+    * [Setup](commandes/documentation/configuration/setup.md)
   * [Musique](commandes/documentation/musique.md)
     * [Bass-Boost](commandes/documentation/musique/bass-boost.md)
     * [Clear Queue](commandes/documentation/musique/clear-queue.md)
@@ -26,7 +28,10 @@
     * [Skip](commandes/documentation/musique/skip.md)
     * [Stop](commandes/documentation/musique/stop.md)
     * [Volume](commandes/documentation/musique/volume.md)
-  * [Information](commandes/documentation/information.md)
+  * [Information](commandes/documentation/information/README.md)
+    * [BotInfo](commandes/documentation/information/botinfo.md)
+    * [Support](commandes/documentation/information/support.md)
+    * [User](commandes/documentation/information/user.md)
 
 ## Juridique
 
