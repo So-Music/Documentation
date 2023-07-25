@@ -4,6 +4,31 @@ description: Ci-dessous vous pouvez trouver tous les changelogs du bot
 
 # 🛠 Mises à jour
 
+## 10.3
+
+📅 Publié le 25.07.2023
+
+{% tabs %}
+{% tab title="Bot" %}
+* **Compatibilité des commandes dans les channels étendue**: Vous pouvez désormais utiliser les commandes du bot So' Music dans les channels suivants : Forum, News, Annonces, Threads, en plus des channels textuels où cela était déjà possible. Cela rendra l'expérience utilisateur plus pratique et accessible dans une variété de contextes.
+* **Ajout de la langue Espagnol**: So' Music prend désormais en charge l'espagnol, ce qui permettra à un public plus large de profiter pleinement de toutes les fonctionnalités du bot dans leur langue préférée.
+* **Changement du format de fichiers de langues**: Les fichiers de langues ont été modifiés pour passer du format YAML au format JSON. Ce changement peut faciliter la gestion des traductions et des localisations. Si vous souhaitez aider à traduire So' Music dans d'autres langues, nous recherchons activement des traducteurs pour rendre l'expérience encore plus globale et inclusive.
+* **Optimisation du code**: Nous avons travaillé dur pour améliorer les performances et l'efficacité du code de So' Music. Vous devriez constater des améliorations significatives en termes de vitesse et de stabilité lors de l'utilisation du bot.
+{% endtab %}
+{% endtabs %}
+
+### <mark style="color:blue;">Le retour tant attendu : Demandez vos musiques directement dans le channel ⁠so-music</mark>
+
+De plus, nous sommes ravis d'annoncer le retour d'une fonctionnalité tant attendue avec le bot ! Après plusieurs mois de bataille avec le support de Discord, nous avons réussi à rétablir la possibilité de mettre le nom d'une musique ou son URL directement dans le channel ⁠so-music. Vous n'avez plus besoin de passer par des commandes, ce qui facilite grandement la demande de musiques. Désormais, vous pouvez simplement taper le nom de la musique que vous souhaitez écouter ou copier-coller l'URL de la piste dans le channel ⁠so-music. Et pour ceux d'entre vous qui ne disposent pas encore du channel ⁠so-music dans votre serveur Discord, ne vous inquiétez pas, c'est très simple à configurer ! Il vous suffit de taper la commande `"/setup"` dans n'importe quel channel textuel pour créer automatiquement le channel et profiter pleinement de cette fonctionnalité.
+
+### <mark style="color:blue;">**Recrutement**</mark>
+
+Nous sommes également à la recherche de personnes passionnées par la musique pour rejoindre notre équipe en tant que Modérateur et Traducteur. Si vous souhaitez contribuer à améliorer l'expérience des utilisateurs de So' Music en aidant à modérer la communauté ou en participant à la traduction du bot dans différentes langues, nous serions ravis de vous accueillir ! Pour toute demande de candidature, veuillez nous envoyer un e-mail à l'adresse suivante : **contact@somusic.xyz**. N'hésitez pas à partager vos compétences, votre expérience et votre motivation pour nous aider à construire une communauté musicale dynamique et multilingue. Nous avons hâte de recevoir vos candidatures et de collaborer avec de nouveaux membres talentueux au sein de l'équipe So' Music !&#x20;
+
+
+
+Nous sommes ravis d'annoncer que cette mise à jour prépare également le terrain pour une grande mise à jour à venir, qui introduira le système de playlist ! Restez à l'écoute pour en savoir plus sur cette fonctionnalité passionnante qui vous permettra de créer et de gérer vos playlists de musique préférées directement depuis So' Music.
+
 ## 10.2
 
 📅 Publié le 18.07.2023
