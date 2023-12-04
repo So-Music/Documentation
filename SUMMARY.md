@@ -2,10 +2,6 @@
 
 * [🏠 Accueil et sommaire](README.md)
 
-## Informations
-
-* [🛠 Mises à jour](informations/mises-a-jour.md)
-
 ## Commandes
 
 * [Documentation](commandes/documentation/README.md)

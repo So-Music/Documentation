@@ -4,7 +4,7 @@ description: 'Dernière mise à jour: 11/07/2023'
 
 # ⚖ Politique de Confidentialité
 
-Nous comprenons que la confidentialité de vos informations est importante pour vous. C'est pourquoi nous avons rédigé cette politique de confidentialité afin de vous expliquer comment nous collectons, utilisons et partageons vos informations.
+Nous comprenons que la confidentialité de vos informations est importante pour vous. C'est pourquoi nous avons rédigé cette politique de confidentialité afin de vous expliquer comment nous collectons, utilisons et partageons vos informations. En utilisant So’ Music, vous consentez à cette politique.
 
 ## A propos de nous
 
@@ -21,15 +21,29 @@ So' Music est un bot de musique sur Discord. Son but est d'offrir ses services a
 
 ## Collecte de vos informations
 
-Nous collectons vos informations lorsque vous utilisez nos services, en particulier quand vous utilisez la commande /setup. Les informations que nous collectons peuvent inclure l’ID de la guilde, l’ID du channel créé ainsi que l’ID du message envoyé par le bot. Nous collectons également l'ID de votre compte Discord lorsque vous utilisez nos services. (Ceux-ci sont nécessaires pour le bon fonctionnement du bot).
+Nous collectons diverses informations afin d'améliorer nos services et personnaliser votre expérience. Les informations collectées incluent:
+
+* Identifiants de guildes : Pour configurer les paramètres par défaut (langues, volume), nous recueillons les identifiants des guildes où notre bot est actif.
+* Données de configuration via /setup : Lors de l'exécution de la commande /setup, nous récupérons l'identifiant du canal et de l'embed créés pour la gestion des musiques.
+* Historique des commandes : Nous conservons l'historique des commandes exécutées, y compris l'identifiant de la guilde, l'identifiant de l'auteur, la commande et la date.
+* Historique d'écoute de musiques : Afin d'améliorer les suggestions, nous recueillons l'historique des musiques écoutées, y compris l'identifiant de l'auteur, le nom de la musique, l'auteur de la musique et la date.
+* Informations sur les utilisateurs : Nous collectons les identifiants des utilisateurs, leur statut (premium ou non), la date de création du compte auprès de notre bot et la date de dernière mise à jour.
 
 ## Utilisation de vos informations
 
-Nous avons besoin de l’ID de la guilde, de l'ID du channel ainsi que l'ID du message pour être en mesure d'exécuter le système avec des embeds. L'Identifiant de votre compte discord sert à associer votre grade, ainsi que pour le fonctionnement du système de playlist. Il sert également à restreindre votre accès au service si vous ne vous conformez pas à nos conditions générales.
+So’ Music utilise ces informations de manière responsable pour :
+
+* Personnaliser les paramètres de chaque guilde, en fonction de ses préférences.
+* Faciliter la gestion des musiques avec la commande /setup et les canaux associés.
+* Analyser les tendances d'utilisation pour améliorer les fonctionnalités et l'expérience globale.
+* Proposer des suggestions de musique basées sur l'historique d'écoute.
 
 ## Partage de vos informations
 
-Nous ne vendrons pas et ne partagerons pas vos renseignements avec un tiers. Nous prenons les mesures adéquates pour la garder sûre et sécurisée. Nous ne vendrons ou ne partagerons jamais vos informations avec une tierce partie.
+Nous ne vendrons pas et ne partagerons pas vos renseignements avec un tiers. Nous prenons les mesures adéquates pour la garder sûre et sécurisée. Nous ne vendrons ou ne partagerons jamais vos informations avec une tierce partie.\
+Nous pouvons partager des informations uniquement dans les cas suivants :
+
+* Conformité légale : Si requis par la loi ou pour protéger nos droits, nous pouvons divulguer des informations aux autorités compétentes.
 
 ## Qui a accès aux données ?
 
@@ -38,6 +52,10 @@ Seuls le propriétaire et les développeurs du bot sont autorisés à accéder �
 ## Sécurité de vos informations
 
 Nous prenons des mesures de sécurité pour protéger vos informations contre l'accès, l'utilisation ou la divulgation non autorisés. Nous utilisons également des mesures de sécurité pour protéger vos informations contre les pertes, les dommages et les modifications.
+
+## Vos droits
+
+Vous avez le droit d'accéder à vos informations personnelles, de les corriger, de les supprimer ou de limiter leur traitement. Pour exercer ces droits ou pour toute question, veuillez nous contacter via [Serveur Support](https://discord.somusic.xyz/).
 
 ## Suppression des données
 
