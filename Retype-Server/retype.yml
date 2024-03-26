@@ -1,0 +1,29 @@
+input: docs/
+output: .retype
+url: https://doc.somusic.xyz
+favicon: static/logo.png
+branding:
+  title: So' Music
+  label: v11.0
+  logo: static/logo.png
+links:
+  - text: Inviter So' Music
+    icon: rocket
+    link: https://invite.somusic.xyz
+  - text: Serveur support
+    icon: globe
+    link: https://discord.somusic.xyz
+  - text: Statut des services
+    icon: pulse
+    link: https://somusic.xyz/status
+editor:
+  enabled: false
+footer:
+  copyright: "&copy; Copyright [So' Music](https://somusic.xyz) {{ year }}. All rights reserved."
+  links:
+    - text: "Conditions générales d'utilisations"
+      icon: law
+      link: "/juridique/conditions-generales-dutilisation.md"
+    - text: "Politique de confidentialité"
+      icon: shield
+      link: "/juridique/politique-de-confidentialite.md"
